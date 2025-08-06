@@ -2,3 +2,4 @@ Django
 djangorestframework
 djangorestframework-simplejwt
 Pillow
+django-cors-headers
